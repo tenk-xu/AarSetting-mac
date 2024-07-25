@@ -1,0 +1,4 @@
+{
+    "AndroidManifest": "[\"provider-{http://schemas.android.com/apk/res/android}name-com.facebook.FacebookContentProvider\"]",
+    "values": "[\"string-name-facebook_app_id\", \"string-name-fb_login_protocol_scheme\", \"string-name-facebook_client_token\"]"
+}
