@@ -1,0 +1,2 @@
+/tenk/oversea_file
+/tenk/OVERSEA-*
